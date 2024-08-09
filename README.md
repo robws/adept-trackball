@@ -22,7 +22,7 @@ By default, **Drag Scroll** is the third button on the top row, counting from th
 
 ## QMK?!
 
-Kits bought from the [Ploopy store](https://ploopy.co/product-category/trackball/adept/) come with QMK and VIA preloaded. Check out the Wiki for instructions on how to load new firmware onto your device. (It's super easy!)
+Kits bought from the [Ploopy store](https://ploopy.co/product-category/trackball/adept/) come with QMK and VIA preloaded. [Check out the Wiki](https://github.com/ploopyco/adept-trackball/wiki) for instructions on how to load new firmware onto your device. (It's super easy!)
 
 
 
